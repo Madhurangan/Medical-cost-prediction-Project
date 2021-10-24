@@ -23,4 +23,4 @@ Assignment Assigned:
 
 Dataset Used: Insurance Dataset
 
-Link to Jupyter notebook:
+Link to Jupyter notebook:https://github.com/Madhurangan/VAC-Project/blob/main/Medical%20cost%20Prediction%20(1).ipynb
