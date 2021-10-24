@@ -22,3 +22,5 @@ Assignment Assigned:
 6.Plot graphs wherever necessary and provide performance metric
 
 Dataset Used: Insurance Dataset
+
+Link to Jupyter notebook:
